@@ -1,0 +1,8 @@
+vsphere_user     = "axians_poc@vsphere.local"
+vsphere_password = "your_password_here"
+vsphere_server   = "aletvc666.infra.ats.net"
+
+vm_name          = "Win-Server-01"
+vm_ip            = "10.10.145.100"
+vm_gateway       = "10.10.145.1"
+vm_subnet_mask   = "255.255.255.0"
