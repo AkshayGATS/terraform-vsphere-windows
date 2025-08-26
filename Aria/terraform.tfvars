@@ -1,4 +1,4 @@
-vsphere_user     = "axians_poc@vsphere.local"
+vsphere_user     = "administrator@vsphere.local"
 vsphere_password = "your_password_here"
 vsphere_server   = "aletvc666.infra.ats.net"
 
