@@ -1,5 +1,5 @@
 vsphere_user     = "administrator@vsphere.local"
-vsphere_password = "your_password_here"
+vsphere_password = "vSphere.7MES$"
 vsphere_server   = "aletvc666.infra.ats.net"
 
 vm_name          = "Win-Server-01"
